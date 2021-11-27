@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Code</string>
+    <string name="iconDescription">appIcon</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="sign_upButtonText">Sign Up</string>
+</resources>
